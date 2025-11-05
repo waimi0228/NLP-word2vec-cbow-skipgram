@@ -2,7 +2,7 @@ from googleapiclient.discovery import build
 import pandas as pd
 
 # YouTube Data API 金鑰
-API_KEY = 'AIzaSyB9YVkw0f639THjGPheUNmmXAjljP18-XX'
+API_KEY = 'AIzaSyB9YVkw0f000xxxxxeUNmmXAjljP18-XX'
 
 # 頻道 ID
 CHANNEL_ID = 'UCcHVKeT_5Ta-gTa-sgooQxQ'
