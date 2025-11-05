@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+pyvenv.cfg
+
+# IDE
+.idea/
+.vscode/
+
+# Data or results
+data/
+results/
+*.csv
+*.h5
+*.pt
+*.log
